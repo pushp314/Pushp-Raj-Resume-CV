@@ -81,5 +81,3 @@ March 2017 - May 2021
 - Motivator, mentor, teacher, and blog reader with a readiness to adopt new technologies and R&D development.
 
 ---
-
-This structure should highlight your skills and projects relevant to a front-end developer intern position. Would you like any modifications or additional details?
