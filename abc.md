@@ -1,85 +1,85 @@
-# Chapter: Budgeting and Savings
+**PUSHP RAJ SHARMA**  
++91 6267935314 | pusprajsharma@gmail.com | Bemetara, Chhattisgarh  
+                 [LinkedIn](https://www.linkedin.com/in/pushp-raj-sharma-a84b79243/) | [GitHub](https://github.com/pushp314)
 
-## Introduction
+---
 
-Budgeting and saving are fundamental aspects of personal finance that help individuals manage their money effectively. This chapter will guide you through the process of creating a personal budget, understanding the difference between fixed and variable expenses, and developing strategies for saving both in the short term and the long term. We will also explore various tools and apps that can assist you in budgeting.
+### **SUMMARY**
+Detail-oriented and results-driven front-end developer with a strong foundation in HTML, CSS, and JavaScript, coupled with hands-on experience in frameworks like React and Bootstrap. Passionate about creating efficient, user-friendly web applications. Seeking an internship position to leverage my technical skills and contribute to innovative web development projects.
 
-## Topic 1: Creating a Personal Budget
+---
 
-Creating a personal budget is the cornerstone of financial management. It involves tracking your income and expenses to ensure that you are living within your means and can save for future goals.
+### **SKILLS**
 
-### Subtopic 1.1: Income and Expenses
+**Programming Languages:**  
+- HTML, CSS, JavaScript, Python
 
-#### Income
-- *Sources of Income:* Identify all sources of income, including salary, freelance work, rental income, investments, etc.
-- *Gross vs. Net Income:* Understand the difference between gross income (before deductions) and net income (after deductions).
-- *Irregular Income:* Plan for irregular income sources by averaging them over a period.
+**Frameworks/Libraries:**  
+- React, Tailwind, Bootstrap, Django, NumPy
 
-#### Expenses
-- *Types of Expenses:* List all monthly expenses such as rent/mortgage, utilities, groceries, transportation, entertainment, and insurance.
-- *Tracking Expenses:* Use a notebook, spreadsheet, or budgeting app to track daily expenses.
-- *Categorizing Expenses:* Group expenses into categories to identify areas where you can cut back.
+**Databases:**  
+- MongoDB, MySQL, SQLite3
 
-### Subtopic 1.2: Fixed vs. Variable Expenses
+**Tools:**  
+- Git, GitHub, VS Code, PyCharm, Canva, ChatGPT
 
-#### Fixed Expenses
-- *Definition:* Fixed expenses are costs that do not change from month to month.
-- *Examples:* Rent/mortgage, car payments, insurance premiums, subscription services.
-- *Management:* Allocate a portion of your budget to cover these predictable expenses.
+**Other Skills:**  
+- WordPress, Blogger, Social Media Handling, SEO Optimization, Cyber Security & Ethical Hacking, Microsoft Office
 
-#### Variable Expenses
-- *Definition:* Variable expenses fluctuate each month based on usage or consumption.
-- *Examples:* Utilities, groceries, dining out, entertainment, travel.
-- *Management:* Monitor and adjust these expenses to avoid overspending. Look for ways to reduce variable costs.
+---
 
-## Topic 2: Saving Strategies
+### **PROJECTS**
 
-Saving is crucial for financial security and achieving long-term goals. Effective saving strategies help you prepare for emergencies and future expenses.
+**UI Showcase**  
+- **Description:** Developed a full front-end and back-end website with an admin interface for managing CRUD operations.
+- **Features:** Admin can add, edit, delete code snippets; users can copy code snippets; feedback comments enabled.
+- **Technologies Used:** HTML, CSS, JavaScript, Tailwind, Bootstrap, Django, SQLite3
 
-### Subtopic 2.1: Emergency Funds
+**Customer Relationship Management System**  
+- **Description:** Built an authentication system where users can add personal details and admins can manage user information.
+- **Features:** Admin can perform CRUD operations.
+- **Technologies Used:** HTML, CSS, JavaScript, Tailwind, Django, MySQL
 
-#### Importance of Emergency Funds
-- *Purpose:* Emergency funds provide a financial safety net for unexpected expenses such as medical emergencies, car repairs, or job loss.
-- *Amount:* Aim to save 3-6 months' worth of living expenses in an easily accessible account.
-- *Building an Emergency Fund:* Start small, automate transfers, and prioritize this fund in your budget.
+**Resource Sharing Platform**  
+- **Description:** Created a platform for users to upload and manage resources with admin performing all CRUD operations.
+- **Features:** Authentication system ensuring only authenticated users can upload resources.
+- **Technologies Used:** HTML, CSS, JavaScript, Tailwind, Django, SQLite3
 
-### Subtopic 2.2: Short Term and Long Term Savings
+---
 
-#### Short Term Savings
-- *Goals:* Identify short-term goals such as vacations, buying a new gadget, or a down payment for a car.
-- *Strategies:* Use high-yield savings accounts, set up automatic transfers, and cut back on non-essential expenses to boost short-term savings.
+### **EDUCATION**
 
-#### Long Term Savings
-- *Goals:* Plan for long-term goals like buying a house, retirement, or education expenses.
-- *Strategies:* Invest in retirement accounts (401(k), IRA), consider mutual funds or stocks, and take advantage of employer matching programs.
+**Shri Shankaracharya Technical Campus, Bhilai, C.G**  
+*Bachelor of Technology in Computer Science (AIML Specialization)*  
+October 2021 - May 2025
 
-## Topic 3: Tools and Apps for Budgeting
+**Academic World School, Bemetara, C.G**  
+*Physics, Chemistry & Mathematics*  
+March 2017 - May 2021
 
-Technology has made budgeting more accessible and efficient. Various tools and apps can help you manage your finances effectively.
+---
 
-### Popular Budgeting Tools and Apps
+### **CERTIFICATIONS & TRAINING**
 
-#### Mint
-- *Features:* Tracks income and expenses, categorizes transactions, provides budgeting tips, and alerts for bills and low balances.
-- *Benefits:* Free to use, integrates with multiple bank accounts and credit cards.
+- Cyber Security & Ethical Hacking
+- Web Development
 
-#### YNAB (You Need A Budget)
-- *Features:* Focuses on proactive budgeting, goal setting, and debt reduction.
-- *Benefits:* Helps you allocate every dollar, offers educational resources, and supports long-term financial planning.
+---
 
-#### PocketGuard
-- *Features:* Tracks spending, shows how much you can safely spend, and identifies areas to save.
-- *Benefits:* Simple interface, helps avoid overspending, and offers financial insights.
+### **EXTRA-CURRICULAR ACTIVITIES**
 
-#### EveryDollar
-- *Features:* Zero-based budgeting approach, tracks spending, and provides customizable budget templates.
-- *Benefits:* User-friendly, integrates with Dave Ramsey's financial advice, and offers both free and paid versions.
+- Participated in various coding competitions and hackathons.
+- Contributed to open-source projects on GitHub.
+- Managed tech blogs and social media handles for tech communities.
 
-### How to Choose the Right Tool
-- *Identify Your Needs:* Determine what features are most important to you (e.g., expense tracking, financial planning, bill reminders).
-- *Try Multiple Options:* Test different apps to see which one fits your preferences and lifestyle.
-- *Consider Costs:* Some apps offer free basic versions, while others may require a subscription for advanced features.
+---
 
-## Conclusion
+### **PERSONAL ATTRIBUTES**
 
-Budgeting and saving are essential skills that enable you to take control of your finances, reduce financial stress, and achieve your financial goals. By understanding your income and expenses, distinguishing between fixed and variable costs, and implementing effective saving strategies, you can build a strong financial foundation. Additionally, leveraging modern budgeting tools and apps can streamline the process and provide valuable insights into your financial habits. Start today, and pave the way for a secure financial future.
+- Strong problem-solving skills with a passion for AI and new technologies.
+- Excellent communication abilities, adaptable to new things, and a fast learner.
+- Motivator, mentor, teacher, and blog reader with a readiness to adopt new technologies and R&D development.
+
+---
+
+This structure should highlight your skills and projects relevant to a front-end developer intern position. Would you like any modifications or additional details?
