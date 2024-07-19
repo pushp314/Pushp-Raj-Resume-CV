@@ -1,5 +1,3 @@
-To enhance your chances, we can add more advanced projects that demonstrate a deeper understanding of front-end development, modern web technologies, and user experience design. Here’s an updated version of your resume:
-
 ---
 
 **PUSHP RAJ SHARMA**  
@@ -104,5 +102,3 @@ March 2017 - May 2021
 - Staying updated with the latest trends in web development and AI
 
 ---
-
-This revised version includes more advanced projects that demonstrate a deeper understanding of front-end development and modern web technologies. Let me know if you need any further adjustments or additions!
