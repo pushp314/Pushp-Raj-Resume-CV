@@ -1,5 +1,3 @@
----
-
 **PUSHP RAJ SHARMA**  
 +91 6267935314 | pusprajsharma@gmail.com | Bemetara, Chhattisgarh  
 [LinkedIn](https://www.linkedin.com/in/pushp-raj-sharma-a84b79243/) | [GitHub](https://github.com/pushp314)
